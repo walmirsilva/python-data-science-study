@@ -1,0 +1,1 @@
+Fonte: http://nbviewer.jupyter.org/github/jvns/pandas-cookbook/tree/master/cookbook/
