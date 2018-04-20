@@ -10,6 +10,7 @@ Na página inicial você já terá acesso aos links das documentações separada
 	1) 10 minutes to pandas.ipynb
 	2) CookBook - Pandas.ipynb
 	3) Estruturas de Dados - Data Structures - Pandas.ipynb
+	4) Funcionalidades Básicas Essenciais - Pandas.ipynb
 
 
 ## Diretório: notebooks/pandas/youtube/Daniel-Chen/ 
