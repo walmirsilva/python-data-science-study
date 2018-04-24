@@ -13,6 +13,7 @@ Na página inicial você já terá acesso aos links das documentações separada
 	4) Funcionalidades Básicas Essenciais - Pandas.ipynb
 	5) Trabalhando com dados de texto - Pandas.ipynb
 	6) Indexação e Seleção de Dados - Pandas.ipynb
+	7) MultiIndex - Indexação Avançada - Pandas.ipynb
 
 
 ## Diretório: notebooks/pandas/youtube/Daniel-Chen/ 
