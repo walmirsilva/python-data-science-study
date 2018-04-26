@@ -14,6 +14,7 @@ Na página inicial você já terá acesso aos links das documentações separada
 	5) Trabalhando com dados de texto - Pandas.ipynb
 	6) Indexação e Seleção de Dados - Pandas.ipynb
 	7) MultiIndex - Indexação Avançada - Pandas.ipynb
+	8) Trabalhando com dados faltantes - Pandas.ipynb
 
 
 ## Diretório: notebooks/pandas/youtube/Daniel-Chen/ 
