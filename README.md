@@ -7,15 +7,16 @@ Repositório para armazenamentos dos exemplos e códigos obtidos dos estudos de 
 Este diretório contém todos os arquivos notebooks obtidos do estudo da documentação do Pandas em http://pandas.pydata.org (Release 0.22.0). 
 Na página inicial você já terá acesso aos links das documentações separadas por versão. Esta documentação é muito completa, a sequência dos meus estudos são:
 
-	1) 10 minutes to pandas.ipynb
-	2) CookBook - Pandas.ipynb
-	3) Estruturas de Dados - Data Structures - Pandas.ipynb
-	4) Funcionalidades Básicas Essenciais - Pandas.ipynb
-	5) Trabalhando com dados de texto - Pandas.ipynb
-	6) Indexação e Seleção de Dados - Pandas.ipynb
-	7) MultiIndex - Indexação Avançada - Pandas.ipynb
-	8) Trabalhando com dados faltantes - Pandas.ipynb]
-	9) Group By Split - Apply - Combine - Pandas
+	 1) 10 minutes to pandas.ipynb
+	 2) CookBook - Pandas.ipynb
+	 3) Estruturas de Dados - Data Structures - Pandas.ipynb
+	 4) Funcionalidades Básicas Essenciais - Pandas.ipynb
+	 5) Trabalhando com dados de texto - Pandas.ipynb
+	 6) Indexação e Seleção de Dados - Pandas.ipynb
+	 7) MultiIndex - Indexação Avançada - Pandas.ipynb
+	 8) Trabalhando com dados faltantes - Pandas.ipynb
+	 9) Group By Split - Apply - Combine - Pandas.ipynb
+    10) Merge, Join  e Concat - Pandas.ipynb
 
 
 ## Diretório: notebooks/pandas/youtube/Daniel-Chen/ 
