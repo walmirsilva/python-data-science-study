@@ -17,6 +17,7 @@ Na página inicial você já terá acesso aos links das documentações separada
 	 8) Trabalhando com dados faltantes - Pandas.ipynb
 	 9) Group By Split - Apply - Combine - Pandas.ipynb
     10) Merge, Join  e Concat - Pandas.ipynb
+    11) Visualização de gráficos - Pandas.ipynb
 
 
 ## Diretório: notebooks/pandas/youtube/Daniel-Chen/ 
