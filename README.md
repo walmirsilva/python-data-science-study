@@ -18,6 +18,7 @@ Na página inicial você já terá acesso aos links das documentações separada
 	 9) Group By Split - Apply - Combine - Pandas.ipynb
     10) Merge, Join  e Concat - Pandas.ipynb
     11) Visualização de gráficos - Pandas.ipynb
+    11) Comparando Pandas com SQL - Pandas.ipynb
 
 
 ## Diretório: notebooks/pandas/youtube/Daniel-Chen/ 
